@@ -1,0 +1,15 @@
+{
+    "outerspace": [
+      {
+        "name": "The Moon",
+        "slug": "moon",
+        "description": "Earth's moon"
+      },
+      {
+        "name": "The Milky Way",
+        "slug": "milky-way",
+        "description": "Spiral Galaxy"
+      }
+    ]
+  }
+  
